@@ -1,0 +1,28 @@
+﻿
+
+
+#item, #item-footer {
+    display: none;
+}
+
+#item {
+    font-weight: bold;
+}
+
+#item-footer-content {
+    height: 40px;
+    background: #fafafa;
+}
+
+.save {
+    float: right;
+}
+
+
+.id {
+    display: none;
+}
+
+.update{
+    margin-right: 5px;
+}
